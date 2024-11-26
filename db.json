@@ -1,0 +1,151 @@
+{
+  "videos": [
+    {
+      "caption": "Malang Sajna ",
+      "imageurl": "https://c.saavncdn.com/303/Malang-Sajna-Hindi-2022-20230403132803-500x500.jpg",
+      "embededlink": "https://www.youtube.com/embed/UbMgcdmYC70",
+      "id": 7
+    },
+    {
+      "caption": "Dagabaaz Re  ",
+      "imageurl": "https://c.saavncdn.com/652/Dabangg-2-Hindi-2012-20221213012606-500x500.jpg",
+      "embededlink": "https://www.youtube.com/embed/0KozfDYK1EU",
+      "id": 8
+    },
+    {
+      "caption": " HUSN",
+      "imageurl": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-500x500.jpg",
+      "embededlink": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "id": 9
+    },
+    {
+      "caption": "Piyu Bole",
+      "imageurl": "https://i.ytimg.com/vi/ZAkr0KFFLLs/maxresdefault.jpg",
+      "embededlink": "https://www.youtube.com/embed/ZAkr0KFFLLs",
+      "id": 10
+    },
+    {
+      "caption": " Pookkalae Sattru Oyivedungal",
+      "imageurl": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/88/79/b3/8879b3ce-f786-6692-2ba8-6bb2f3af4b88/dj.hmufnfdg.jpg/1200x630mv.jpg",
+      "embededlink": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "id": 11
+    },
+    {
+      "caption": "Girl I Need You Song | BAAGHI",
+      "imageurl": "https://i1.sndcdn.com/artworks-000158708298-h9j6iu-t500x500.jpg",
+      "embededlink": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "id": 12
+    }
+  ],
+  "history": [
+    {
+      "caption": "Dagabaaz Re  ",
+      "url": "https://www.youtube.com/embed/0KozfDYK1EU",
+      "timeStamp": "18/11/2024, 16:35:00",
+      "id": 13
+    },
+    {
+      "caption": "Girl I Need You Song | BAAGHI",
+      "url": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "timeStamp": "20/11/2024, 14:36:17",
+      "id": 14
+    },
+    {
+      "caption": "Girl I Need You Song | BAAGHI",
+      "url": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "timeStamp": "20/11/2024, 14:36:19",
+      "id": 15
+    },
+    {
+      "caption": "Girl I Need You Song | BAAGHI",
+      "url": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "timeStamp": "20/11/2024, 14:36:25",
+      "id": 16
+    },
+    {
+      "caption": " Pookkalae Sattru Oyivedungal",
+      "url": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "timeStamp": "20/11/2024, 14:36:48",
+      "id": 17
+    },
+    {
+      "caption": "Piyu Bole",
+      "url": "https://www.youtube.com/embed/ZAkr0KFFLLs",
+      "timeStamp": "20/11/2024, 17:28:28",
+      "id": 18
+    },
+    {
+      "caption": " HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "20/11/2024, 17:28:38",
+      "id": 19
+    },
+    {
+      "caption": "Girl I Need You Song | BAAGHI",
+      "url": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "timeStamp": "24/11/2024, 13:39:50",
+      "id": 20
+    },
+    {
+      "caption": "Dagabaaz Re  ",
+      "url": "https://www.youtube.com/embed/0KozfDYK1EU",
+      "timeStamp": "24/11/2024, 13:39:57",
+      "id": 21
+    },
+    {
+      "caption": "Girl I Need You Song | BAAGHI",
+      "url": "https://www.youtube.com/embed/yKDWXC4o5nA",
+      "timeStamp": "24/11/2024, 13:40:10",
+      "id": 22
+    },
+    {
+      "caption": " HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "24/11/2024, 13:41:05",
+      "id": 23
+    },
+    {
+      "caption": " HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "25/11/2024, 13:04:23",
+      "id": 24
+    },
+    {
+      "caption": "Piyu Bole",
+      "url": "https://www.youtube.com/embed/ZAkr0KFFLLs",
+      "timeStamp": "25/11/2024, 16:19:02",
+      "id": 25
+    },
+    {
+      "caption": " HUSN",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog",
+      "timeStamp": "25/11/2024, 16:19:14",
+      "id": 26
+    }
+  ],
+  "category": [
+    {
+      "category": "Tamil songs",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "category": "Hindi songs",
+      "allVideos": [
+        {
+          "caption": "Girl I Need You Song | BAAGHI",
+          "imageurl": "https://i1.sndcdn.com/artworks-000158708298-h9j6iu-t500x500.jpg",
+          "embededlink": "https://www.youtube.com/embed/yKDWXC4o5nA",
+          "id": 12
+        },
+        {
+          "caption": "Piyu Bole",
+          "imageurl": "https://i.ytimg.com/vi/ZAkr0KFFLLs/maxresdefault.jpg",
+          "embededlink": "https://www.youtube.com/embed/ZAkr0KFFLLs",
+          "id": 10
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
